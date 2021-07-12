@@ -14,7 +14,7 @@ jobs:
     - name: Download
       run: |
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.nesxc.com/ -o nesxc.com.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ranas.cn/ -o ranas.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.ranas.cn/ -o ranas.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/http://itciraos.cn/ -o imciraos.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://android99.me -o android99.me.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.zhheo.com/ -o blog.zhheo.com.jpg
